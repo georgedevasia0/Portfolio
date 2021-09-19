@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "default": "george-6af49"
+  },
+  "targets": {
+    "george-6af49": {
+      "hosting": {
+        "george-devasia": [
+          "George"
+        ],
+        "george": [
+          "george-devasia"
+        ],
+        "george1": [
+          "george-6af49"
+        ]
+      }
+    }
+  }
+}

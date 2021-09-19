@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "george-6af49"
+  },
+  "targets": {
+    "george-6af49": {
+      "hosting": {
+        "george": [
+          "roshan-cheriyan"
+        ]
+      }
+    }
+  }
+}
